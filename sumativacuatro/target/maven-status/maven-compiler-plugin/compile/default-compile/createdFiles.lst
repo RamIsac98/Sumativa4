@@ -1,0 +1,17 @@
+com\mycompany\sumativacuatro\igu\vista$2.class
+com\mycompany\sumativacuatro\logica\Controladora.class
+com\mycompany\sumativacuatro\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\sumativacuatro\igu\vista$3.class
+com\mycompany\sumativacuatro\igu\vista$4.class
+com\mycompany\sumativacuatro\igu\vista.class
+com\mycompany\sumativacuatro\main.class
+com\mycompany\sumativacuatro\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\sumativacuatro\persistencia\controladoraPersistencia.class
+com\mycompany\sumativacuatro\igu\vista$5.class
+com\mycompany\sumativacuatro\logica\Computadora.class
+com\mycompany\sumativacuatro\persistencia\ComputadoraJpaController.class
+com\mycompany\sumativacuatro\igu\vista$7.class
+com\mycompany\sumativacuatro\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\sumativacuatro\igu\vista$1.class
+com\mycompany\sumativacuatro\logica\Computadora_.class
+com\mycompany\sumativacuatro\igu\vista$6.class
